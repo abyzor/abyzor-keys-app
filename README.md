@@ -1,6 +1,10 @@
 # ABYZOR Keys
 
 <p align="center">
+<img width="1095" alt="ABYZOR Keys" src="https://github.com/user-attachments/assets/064fe786-4c46-43b8-9e13-48274c7ddc04" />
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/version-v0.1.0-blue" />
 <img src="https://img.shields.io/badge/Free-Forever-success" />
 <img src="https://img.shields.io/badge/Professional-$14.99%20Lifetime-orange" />
@@ -11,10 +15,6 @@
 <p align="center">
 <b>Harmonic analysis, smart set building, and intelligent playlist preparation.</b><br>
 Windows & macOS • Free Forever • Professional Upgrade Available
-</p>
-
-<p align="center">
-<img width="1095" alt="ABYZOR Keys" src="https://github.com/user-attachments/assets/78ba4406-3083-45a7-8830-5b4d9316eabd" />
 </p>
 
 ---
