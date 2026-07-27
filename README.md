@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/github/downloads/abyzor/abyzor-keys-app/total?label=Downloads&logo=github" />
 <img src="https://img.shields.io/badge/version-v0.1.0-blue" />
 <img src="https://img.shields.io/badge/Free-Forever-success" />
 <img src="https://img.shields.io/badge/Professional-$14.99%20Lifetime-orange" />
